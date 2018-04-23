@@ -1,5 +1,5 @@
 # vcesp
-Ventilation Control Interface
+Ventilation Control Interface for ESP or Arduino
 
 A simple interface webinterface for a ventilation control system at home.
 
